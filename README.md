@@ -14,7 +14,7 @@ npm install entry-watch-webpack-plugin --save-dev
 
 ## Usage
 
-配合 [dynamic-entry](https://webpack.js.org/configuration/entry-context/#dynamic-entry), 
+配合 [dynamic-entry](https://webpack.js.org/configuration/entry-context/#dynamic-entry)
 
 ```js
 const path = require('path');
